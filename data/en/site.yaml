@@ -1,0 +1,12 @@
+# Copyright Notice
+copyright: © Aman Prakash Copyright 2021.
+
+# Meta description for site.
+description: Portfolio and personal blog of Aman Prakash.
+
+# specify the list of custom menus separated by a divider from the main menus.
+customMenus:
+- name: Docs
+  url: /docs
+- name: Notes
+  url: /notes

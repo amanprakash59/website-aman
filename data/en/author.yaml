@@ -1,0 +1,20 @@
+# some information about me
+name: "Aman Prakash"
+nickname: "Aman"
+
+greeting: "Hi, I am"
+image: "images/author/aman.png"
+
+contactInfo:
+  email: "amanprakash659@gmail.com"
+  phone: "+917654797228"
+
+
+summary:
+  - I am a Developer
+  - I am a UI/UX Designer
+  - I love Raspberry Pi
+  - I love procreate
+  - I love to play Piano
+  - I work on open-source projects
+  - I love to work with some fun projects
