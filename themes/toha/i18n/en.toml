@@ -24,7 +24,7 @@ other = "Contact me:"
 other = "Email"
 
 [phone]
-other = "Phone"
+other = "Call me"
 
 [newsletter_text]
 other = "Stay up to date with email notification"
@@ -33,13 +33,13 @@ other = "Stay up to date with email notification"
 other = "Enter email"
 
 [newsletter_warning]
-other = "We'll never share your email with anyone else."
+other = "AmAn never shares your email with anyone else."
 
 [submit]
 other = "Submit"
 
 [hugoAttributionText]
-other = "AmAn Designs"
+other = "AmAn Designs   ."
 
 [prev]
 other = "Prev"
