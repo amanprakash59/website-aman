@@ -15,10 +15,10 @@ company:
   url: "https://lnct.ac.in/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+resume: "files/r.pdf"
 
 # a summary about you
-summary: 'I am a passionate computer science student . I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate computer science student . I am currently working on [Kubernetes](https://kubernetes.io/) and docker . My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as tinkering with my [Raspberry Pi](https://www.raspberrypi.org//) .'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
