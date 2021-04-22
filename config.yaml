@@ -5,7 +5,6 @@ title: "AmAn PraKasH : Portfolio"
 theme: "toha"
 
 # Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
     languageName: English
@@ -54,7 +53,7 @@ params:
   gitBranch: source
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: false
+  enableBlogPost: true
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
