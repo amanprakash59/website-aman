@@ -18,7 +18,7 @@ company:
 resume: "files/r.pdf"
 
 # a summary about you
-summary: 'I am a passionate computer science student . I am currently working on [Kubernetes](https://kubernetes.io/) and docker . My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as tinkering with my [Raspberry Pi](https://www.raspberrypi.org//) .'
+summary: 'I am a passionate computer science student . I am currently working on [Kubernetes](https://kubernetes.io/) and docker . My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as tinkering with my [Raspberry Pi](https://www.raspberrypi.org//). I also love to design and create UI elements in [Figma](https://www.figma.com/) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html).'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -50,6 +50,12 @@ socialLinks:
 - name: Instagram
   icon: "fab fa-instagram"
   url: "https://www.instagram.com/mr.aman_59/"
+- name: Youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/c/AmanPrakash59/"
+- name: Dribble
+  icon: "fab fa-dribbble"
+  url: "https://dribbble.com/amanprakash59/"
  
 
 # your soft skills
