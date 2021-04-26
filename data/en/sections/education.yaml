@@ -61,16 +61,16 @@ degrees:
     - name: Network Security
       achieved: 3.80
       outOf: 4
-    - name: Operating System
+    - name: Operating Systems
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: Artificial Intelligence
       achieved: 3.75
       outOf: 4
   publications: #(optional)
   - title: 1st Semester Marksheet
     url:  "files/Marksheet aman 1st semester.pdf"
   - title: 2nd Semester Marksheet
-    url:  "files/Appreciation 10 CGPA.pdf"
+    url:  "files/Marksheet Aman 2nd semester.pdf"
   extracurricularActivities: #(optional)
   - Member of Hackathon Club
