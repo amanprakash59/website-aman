@@ -22,9 +22,9 @@ degrees:
     outOf: 10
   publications: #(optional)
   - title: CBSE Marksheet
-    url: "#"
+    url: "files/10 report card 659.pdf"
   - title: Letter of Appreciation
-    url: "#"
+    url: "files/Appreciation 10 CGPA.pdf"
 
 
 - name: 12th Board CBSE
@@ -39,7 +39,7 @@ degrees:
     outOf: 100
   publications: #(optional)
   - title: CBSE Marksheet
-    url: "#"
+    url:  "files/12th Marksheet.pdf"
    
 - name: B.Tech in Computer Science & Engineering
   icon: fa-graduation-cap
@@ -69,8 +69,8 @@ degrees:
       outOf: 4
   publications: #(optional)
   - title: 1st Semester Marksheet
-    url: "#"
+    url:  "files/Marksheet aman 1st semester.pdf"
   - title: 2nd Semester Marksheet
-    url: "#"
+    url:  "files/Appreciation 10 CGPA.pdf"
   extracurricularActivities: #(optional)
   - Member of Hackathon Club
