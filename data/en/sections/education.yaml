@@ -22,7 +22,7 @@ degrees:
     outOf: 10
   publications: #(optional)
   - title: CBSE Marksheet
-    url: "files/10 report card 659.pdf"
+    url: "files/10 report card 659.jpg"
   - title: Letter of Appreciation
     url: "files/Appreciation 10 CGPA.pdf"
 
