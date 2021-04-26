@@ -35,12 +35,12 @@ accomplishments:
   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
   certificateURL: "https://example.com"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Foundations of User Experience (UX) Design
+  timeline: "Present"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    name: Coursera
+    url: https://www.coursera.org/learn/foundations-user-experience-design
+  courseOverview:  Define the field of UX and explain why it’s important for consumers and businesses. Understand foundational concepts in UX design, such as user-centered design, the design process, accessibility, and equity-focused design. Identify the factors that contribute to great user experience design.
+  certificateURL: "https://coursera.org/share/ef85d3b835c33fd8206fc4092a846808"
  
 
