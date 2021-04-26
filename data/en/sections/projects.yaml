@@ -24,28 +24,20 @@ projects:
 - name: Kubernetes
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  timeline: "March 2020 - Present"
+  repo: https://github.com/kubernetes/kubernetes
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
+  role: Personal Project on Raspberry Pi
+  timeline: "Jun 2020 - Present"
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: I used tensor flow lite Machine Learning to detect and identify objects on my Raspberry Pi4 .
+  tags: ["hobby", "machine-learning"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+
 
 
