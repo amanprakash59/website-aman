@@ -7,21 +7,21 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
+#   designation
 designation: B.tech CSE Student
-# your company information
+#   company information
 company:
   name: LNCT Group of Colleges
   url: "https://lnct.ac.in/"
 
-# your resume. this file path should be relative to you "static" directory
+#   resume.
 resume: "files/r.pdf"
 
 # a summary about you
 summary: 'I am a passionate computer science student . I am currently working on [Kubernetes](https://kubernetes.io/) and docker . My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as tinkering with my [Raspberry Pi](https://www.raspberrypi.org//). I also love to design and create UI elements in [Figma](https://www.figma.com/) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html).'
 
-# your social links
-# give as many as you want. use font-awesome for the icons.
+#  social links
+#  font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
@@ -58,7 +58,7 @@ socialLinks:
   url: "https://dribbble.com/amanprakash59/"
  
 
-# your soft skills
+#   soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
