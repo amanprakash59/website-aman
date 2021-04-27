@@ -16,28 +16,20 @@ skills:
   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
   url: "https://kubernetes.io/"
 
-- name: Procreate
-  logo: /images/sections/skills/procreate.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Aws
+- name: Amazon Web Services
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with AWS for Elastic Compute Cloud service and for storage & data management. Also have experience using Azure and Google Cloud Platform."
+  url: "https://aws.amazon.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: GarageBand
-  logo: /images/sections/skills/garageband.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
+- name: Linux 
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  url: "https://www.linux.org/"
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -47,3 +39,15 @@ skills:
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  url: "https://isocpp.org/"
+  
+- name: Procreate
+  logo: /images/sections/skills/procreate.png
+  summary: "Procreate has everything to create expressive sketches, rich paintings, gorgeous illustrations and beautiful animations. It is the complete art studio packed with unique features and intuitive creative tools."
+  url: "https://procreate.art/ipad"
+  
+- name: GarageBand
+  logo: /images/sections/skills/garageband.png
+  summary: "GarageBand for iOS makes it incredibly simple to play, record and share music, no matter where you are. Tap into a wide range of instruments from around the world."
+  url: "https://www.apple.com/in/ios/garageband/"
+
