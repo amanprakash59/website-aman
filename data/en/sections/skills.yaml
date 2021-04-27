@@ -51,6 +51,11 @@ skills:
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
   url: "https://isocpp.org/"
   
+- name: Adobe Premiere Pro
+  logo: /images/sections/skills/pr.png
+  summary: "Have good Experience with Adobe Premiere Pro. Familier with commonly used tools and effects for editing videos. "
+  url: "https://www.adobe.com/in/products/premiere.html" 
+  
 - name: Procreate
   logo: /images/sections/skills/procreate.png
   summary: "Using Procreate to create expressive sketches, rich paintings, gorgeous illustrations and beautiful animations."
@@ -60,4 +65,6 @@ skills:
   logo: /images/sections/skills/garageband.png
   summary: "Love to play Piano and other keypad based GarageBand instruments on iPad and share music."
   url: "https://www.apple.com/in/ios/garageband/"
+
+
 
