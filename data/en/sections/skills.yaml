@@ -18,7 +18,7 @@ skills:
 
 - name: Amazon Web Services
   logo: /images/sections/skills/aws.png
-  summary: 'Using AWS for Elastic Compute Cloud service and for storage. Also have experience using [Azure](https://azure.microsoft.com/) and Google Cloud.'
+  summary: "Using AWS for Elastic Compute Cloud service and for storage. Also have experience using Azure & Google Cloud."
   url: "https://aws.amazon.com/"
 
 - name: Docker
@@ -30,6 +30,16 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system since 2018 (Debian, Kali, Raspberry Pi OS). Capable of writing bash/shell scripts."
   url: "https://www.linux.org/"
+  
+- name: Figma
+  logo: /images/sections/skills/figma.png
+  summary: "On the Go, I use Figma, a web based vector graphics editor to design and create UI/UX elements and sometimes Art and logo."
+  url: "https://www.figma.com/"
+  
+- name: Adobe XD
+  logo: /images/sections/skills/xd.png
+  summary: "Create most of my UI/UX Design elements in Adobe Xperience Design."
+  url: "https://www.adobe.com/in/products/xd.html"
 
 - name: Git
   logo: /images/sections/skills/git.png
