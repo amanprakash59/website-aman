@@ -2,7 +2,7 @@
 section:
   name: Experiences
   id: experiences
-  enable: true 
+  enable: false
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: LNCT Group of
     url: "https://www.example.com"
     location: Dhaka Branch
     # company overview
@@ -35,16 +35,3 @@ experiences:
     - Support client for abc tool.
     - Learn k,d,w technology for xyz.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
