@@ -30,6 +30,21 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system since 2018 (Debian, Kali, Raspberry Pi OS). Capable of writing bash/shell scripts."
   url: "https://www.linux.org/"
+
+- name: Android Studio
+  logo: /images/sections/skills/studio.png
+  summary: "Capable of Creating & managing apps for Android Phones And Tablets. Experienced in writing java based codes for Development."
+  url: "https://developer.android.com/studio"
+  
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Used Java as main Language in Android studio for development of applications."
+  url: "https://go.java/"
+
+- name: Microsoft Office
+  logo: /images/sections/skills/office.png
+  summary: "Handfull of Experience with complete Microsoft Office Suite. Mostly with Excel, PowerPoint, Word & Publisher."
+  url: "https://www.office.com/"
   
 - name: Figma
   logo: /images/sections/skills/figma.png
