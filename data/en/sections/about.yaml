@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 #   designation
-designation: B.Tech CSE Student
+designation: B.Tech 3rd year CSE Student
 #   company information
 company:
   name: LNCT Group Of Colleges
@@ -18,8 +18,7 @@ company:
 resume: "files/r.pdf"
 
 # a summary about you
-summary: 'I am a passionate computer science student . I am currently working on [Kubernetes](https://kubernetes.io/) and docker . My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as tinkering with my [Raspberry Pi](https://www.raspberrypi.org//). I also love to design and create UI elements in [Figma](https://www.figma.com/) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html).'
-
+summary: 'I am a very enthusiastic computer science student . I am currently Learning MERN stack. I am Passionate to become a Full Stack Developer.
 #  social links
 #  font-awesome for the icons.
 socialLinks:
