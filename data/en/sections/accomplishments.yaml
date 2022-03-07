@@ -27,3 +27,18 @@ accomplishments:
   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
   certificateURL: "/docs"
 
+- name:  Oracle SQL Databases
+  timeline: "February 2022"
+  organization:
+    name: Oracle SQL Basics
+    url: https://www.coursera.org/learn/oracle-sql-basics
+  courseOverview: This course, Oracle SQL Basics is the Basic course in the Oracle specialization. It is designed to help you learn the key elements of the Structured Query Language specific to Oracle. 
+  certificateURL: "https://coursera.org/share/1b97a089f9d155521371205eec22ed7c"
+
+ - name:  Java Fundamentals
+  timeline: "March 2022"
+  organization:
+    name: Introduction to Java
+    url: https://www.coursera.org/learn/oracle-sql-basics
+  courseOverview: This course includes hands-on practice and will give you a solid knowledge of the Java language. It is designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments.
+  certificateURL: "https://coursera.org/share/60a57babb18f76e6efcb4393fe42de7f"
