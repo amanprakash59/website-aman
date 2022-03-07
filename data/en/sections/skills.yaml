@@ -11,20 +11,12 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers ."
-  url: "https://kubernetes.io/"
+
 
 - name: Amazon Web Services
   logo: /images/sections/skills/aws.png
   summary: "Using AWS for Elastic Compute Cloud service and for storage. Also have experience using Azure & Google Cloud."
   url: "https://aws.amazon.com/"
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Writing programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
 
 - name: Linux 
   logo: /images/sections/skills/linux.png
