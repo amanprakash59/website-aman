@@ -49,7 +49,7 @@ degrees:
     url: "https://lnct.ac.in/"
   grade: #(optional)
     scale: CGPA
-    achieved: 8.05
+    achieved: 8.81
     outOf: 10
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
@@ -64,13 +64,19 @@ degrees:
     - name: Operating Systems
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligence
-      achieved: 3.75
+    - name: Cloud Computing
+      achieved: 3.80
       outOf: 4
   publications: #(optional)
   - title: 1st Semester Marksheet
     url:  "files/Marksheet aman 1st semester.jpg"
   - title: 2nd Semester Marksheet
     url:  "files/Marksheet Aman 2nd semester.jpg"
+  - title: 3rd Semester Marksheet
+    url:  "files/Marksheet Aman 3rd semester.jpg"
+  - title: 4th Semester Marksheet
+    url:  "files/Marksheet Aman 4th semester.jpg"
+  - title: 5nd Semester Marksheet
+    url:  "files/Marksheet Aman 5th semester.jpg"
   extracurricularActivities: #(optional)
   - Member of Hackathon Club
