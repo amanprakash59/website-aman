@@ -8,5 +8,4 @@ description: Portfolio and personal blog of Aman Prakash.
 customMenus:
 - name: Docs
   url: /docs
-- name: Notes
-  url: /notes
+
