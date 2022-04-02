@@ -24,12 +24,12 @@ skills:
   url: "https://www.linux.org/"
 
 - name: Bootstrap
-  logo: /images/sections/skills/react.png
+  logo: /images/sections/skills/linux.png
   summary: "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development."
   url: "https://getbootstrap.com/"  
 
 - name: React JS
-  logo: /images/sections/skills/react.png
+  logo: /images/sections/skills/linux.png
   summary: "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
   url: "https://reactjs.org/"  
 
