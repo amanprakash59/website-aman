@@ -29,7 +29,7 @@ skills:
   url: "https://getbootstrap.com/"  
 
 - name: React JS
-  logo: /images/sections/skills/linux.png
+  logo: /images/sections/skills/react.svg
   summary: "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
   url: "https://reactjs.org/"  
 
