@@ -24,7 +24,7 @@ skills:
   url: "https://www.linux.org/"
 
 - name: Bootstrap
-  logo: /images/sections/skills/bootstrap.png
+  logo: /images/sections/skills/bootstrap.svg
   summary: "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development."
   url: "https://getbootstrap.com/"  
 
