@@ -24,7 +24,7 @@ skills:
   url: "https://www.linux.org/"
 
 - name: MySQL 
-  logo: /images/sections/skills/mysql.svg
+  logo: /images/sections/skills/sql.jpg
   summary: "SQL is a database computer language designed for the retrieval and management of data in a relational database."
   url: "https://www.mysql.com/"
 
