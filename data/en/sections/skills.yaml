@@ -23,6 +23,15 @@ skills:
   summary: "Using as the main operating system since 2018 (Debian, Kali, Raspberry Pi OS). Capable of writing bash/shell scripts."
   url: "https://www.linux.org/"
 
+- name: Bootstrap
+  logo: /images/sections/skills/react.png
+  summary: "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development."
+  url: "https://getbootstrap.com/"  
+
+- name: React JS
+  logo: /images/sections/skills/react.png
+  summary: "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
+  url: "https://reactjs.org/"  
 
 - name: Android Studio
   logo: /images/sections/skills/studio.png
