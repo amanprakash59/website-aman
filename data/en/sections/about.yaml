@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 #   designation
-designation: B.Tech CS Student
+designation: B.Tech CSE Student
 #   company information
 company:
   name: LNCT Group Of Colleges

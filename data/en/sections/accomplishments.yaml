@@ -27,18 +27,51 @@ accomplishments:
   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
   certificateURL: "/docs"
 
-- name:  Oracle SQL Databases
+- name:  Oracle SQL Databases Specialization
   timeline: "February 2022"
   organization:
     name: Coursera
-    url: https://www.coursera.org/learn/oracle-sql-basics
-  courseOverview: This course, Oracle SQL Basics is the Basic course in the Oracle specialization. It is designed to help you learn the key elements of the Structured Query Language specific to Oracle. 
-  certificateURL: "https://coursera.org/share/1b97a089f9d155521371205eec22ed7c"
+    url: https://www.coursera.org/specializations/oracle-sql-databases
+  courseOverview: This Specialization is intended for beginners to learn how to become proficient writing Oracle SQL code to create, modify, and edit Oracle SQL Databases.
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/MTU7AFZLTFTX"
 
-- name:  Java Fundamentals
+- name:  Core Java Specialization
   timeline: "March 2022"
   organization:
     name: Coursera
-    url: https://www.coursera.org/learn/java-introduction
-  courseOverview: This course includes hands-on practice and will give you a solid knowledge of the Java language. It is designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments.
-  certificateURL: "https://coursera.org/share/60a57babb18f76e6efcb4393fe42de7f"
+    url: https://www.coursera.org/specializations/core-java
+  courseOverview: This Core Java Specialization is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments.
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/DZGU67DV4QNR"
+
+- name:  Full-Stack Web Development with React
+  timeline: "March 2022"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org/specializations/full-stack-react
+  courseOverview: Build Complete Web and Hybrid Mobile Solutions. Master front-end web, hybrid mobile app and server-side development in three comprehensive courses.
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/2B7657S3G8S4"
+
+- name:  Data Structures
+  timeline: "March 2022"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org/learn/data-structures
+  courseOverview: A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this online course, we consider the common data structures that are used in various computational problems.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/FJQWJHMDAH8B"
+
+- name:  Blockchain Basics
+  timeline: "March 2022"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org/learn/blockchain-basics
+  courseOverview: This first course of the Blockchain specialization provides a broad overview of the essential concepts of blockchain technology – by initially exploring the Bitcoin protocol followed by the Ethereum protocol – to lay the foundation necessary for developing applications and programming.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/YTQXNMU3GBYQ"
+
+- name:  AWS Cloud Practitioner Essentials
+  timeline: "March 2022"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org/learn/aws-cloud-practitioner-essentials
+  courseOverview: If you’re new to the cloud, whether you’re in a technical or non-technical role such as finance, legal, sales, marketing, this course will provide you with an understanding of fundamental AWS Cloud concepts to help you gain confidence to contribute to your organization’s cloud initiatives.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/5XMHCSF3FSWV"
+
