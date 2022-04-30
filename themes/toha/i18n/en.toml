@@ -96,7 +96,7 @@ other = "Read"
 other = "Star"
 
 [project_details]
-other = "Open Project"
+other = "Open"
 
 [err_404]
 other = "Tell AmAn to build this page :("
