@@ -2,9 +2,9 @@
 section:
   name: Projects
   id: projects
-  enable: false
+  enable: true
   weight: 5
-  showOnNavbar: false
+  showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -21,13 +21,14 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
+- name: Ocean Of NFT
   logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2020 - Present"
-  repo: https://github.com/kubernetes/kubernetes
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  role: Creater
+  timeline: "March 2022- Present"
+  repo: https://github.com/amanprakash59/website-aman59
+  url: "www.oceanofnft.me"
+  summary: Blog Post Website about NFTs and Blockchain.
+  tags: ["github", "bootstrap", "html","cloud"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
