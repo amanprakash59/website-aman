@@ -25,8 +25,8 @@ projects:
   logo: /images/sections/projects/kubernetes.png
   role: Creater
   timeline: "March 2022- Present"
-  repo: https://github.com/amanprakash59/website-aman59
-  url: https://www.oceanofnft.me
+  repo: https://github.com/amanprakash-lnct/oceanofnft
+  url: https://oceanofnft.me/
   summary: Blog Post Website about NFTs and Blockchain.
   tags: ["github", "bootstrap", "html","cloud"]
 
