@@ -8,16 +8,6 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons
-buttons:
-- name: All
-  filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
 
 # your projects
 projects:
@@ -26,7 +16,7 @@ projects:
   role: Creater
   timeline: "March 2022- Present"
   repo: https://github.com/amanprakash-lnct/oceanofnft
-  url: https://oceanofnft.me/
+  url: "https://oceanofnft.me/"
   summary: Blog Post Website about NFTs and Blockchain.
   tags: ["github", "bootstrap", "html","cloud"]
 
