@@ -26,7 +26,7 @@ projects:
   role: Creater
   timeline: "March 2022- Present"
   repo: https://github.com/amanprakash59/website-aman59
-  url: "www.oceanofnft.me"
+  url: https://www.oceanofnft.me
   summary: Blog Post Website about NFTs and Blockchain.
   tags: ["github", "bootstrap", "html","cloud"]
 
