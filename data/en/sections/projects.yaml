@@ -12,10 +12,10 @@ section:
 # your projects
 projects:
 - name: Ocean Of NFT
-  logo: /images/sections/projects/kubernetes.png
-  role: Creater
+  logo: /images/sections/projects/main-logo.svg
+  role: Creater and Coder
   timeline: "March 2022- Present"
-  repo: https://github.com/amanprakash-lnct/oceanofnft
+ # repo: https://github.com/amanprakash-lnct/oceanofnft
   url: "https://oceanofnft.me/"
   summary: Blog Post Website about NFTs and Blockchain.
   tags: ["github", "bootstrap", "html","cloud"]
@@ -23,11 +23,11 @@ projects:
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
   role: Personal Project on Raspberry Pi
-  timeline: "Jun 2020 - Present"
+  timeline: "Jun 2021 - Present"
   repo: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: "https://oceanofnft.me/"
   summary: I used tensor flow lite Machine Learning to detect and identify objects on my Raspberry Pi4 .
-  tags: ["hobby", "machine-learning"]
+  tags: ["hobby", "machine-learning" , "A.I."]
 
 
 
