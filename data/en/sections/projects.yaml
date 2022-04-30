@@ -18,16 +18,15 @@ projects:
  #repo: https://github.com/amanprakash-lnct/oceanofnft
   url: "https://oceanofnft.me/"
   summary: Personal Blog Post Website about NFTs , Blockchain , BitCoins , MetaVerse , Web3.0 and Crypto.
-  tags: ["github", "bootstrap", "html", "css" , "javascript"]
+  tags: ["bootstrap", "html", "css" , "javascript"]
 
 - name: Personal Portfolio (This)
   logo: /images/sections/projects/ap.png
   role: Creater , Designer and Coder
   timeline: "June 2021- Present"
   repo: https://github.com/amanprakash59/website-aman59
-  #url: "https://oceanofnft.me/"
   summary: Personal portfolio and website about me and my skills and projects. Explore This Site. 
-  tags: ["bootstrap", "html", "css" , "javascript" , "react" , "netlify"] 
+  tags: ["bootstrap", "javascript" , "react" , "netlify"] 
 
   
 - name: Tensorflow
@@ -35,9 +34,8 @@ projects:
   role: Personal Project on Raspberry Pi
   timeline: "Jun 2021 - Present"
   repo: https://github.com/tensorflow/tensorflow
-  url: "https://oceanofnft.me/"
   summary: I used tensor flow lite Machine Learning to detect and identify objects on my Raspberry Pi4 .
-  tags: ["hobby", "machine-learning" , "A.I." , "Raspberry pi" , "Linux" ]
+  tags: ["hobby", "machine-learning" , "Linux" ]
 
 
 - name: PassGen - Random Strong Password
@@ -46,7 +44,7 @@ projects:
   timeline: "May 2022 - Present"
   url: "https://amanprakash-lnct.github.io/PassGen/"
   summary: Minor Project on Java Web App Development. Generates strong random passwords as per requirements.
-  tags: ["Java", "javascript" , "html." , "css" , "React"]
+  tags: ["Java", "javascript" , "html" , "css" ]
 
 
 
